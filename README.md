@@ -2,6 +2,7 @@
 
 Projeto realizado durante as aulas de Java, professora Marianne Salamão, do curso da Gama Academy em parceria com o banco PAN.
 
+---
 ### Tecnologias utilizadas
 
 - Spring Boot (Maven e JDK 11)
